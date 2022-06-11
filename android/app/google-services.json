@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691372446134",
+    "project_id": "keyfhane-3d120",
+    "storage_bucket": "keyfhane-3d120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691372446134:android:35363b239ec501a397b117",
+        "android_client_info": {
+          "package_name": "com.keyfhane.keyfhane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691372446134-soc0o53orgrthk9t0ksrjabbugg6ish1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOIbcdAm_kNTp_cDhN1xmpBzWpOzpFadU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691372446134-soc0o53orgrthk9t0ksrjabbugg6ish1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
